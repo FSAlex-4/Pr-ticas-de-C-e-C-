@@ -1,2 +1,2 @@
-# Pr-ticas-de-C-e-C-
+# Praicas-de-C-e-C++-
 Treinos práticas e aprendizados na linguagem C e C ++
